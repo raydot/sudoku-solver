@@ -1,0 +1,15 @@
+input[type="text"]{ padding: 20px 10px; line-height: 28px; }
+
+.digitCase {
+    display:inline-block;
+    padding:15px 10px;
+    line-height:140%;
+    width: 20px;
+    margin: 0 auto;
+}
+
+
+.digit {
+  font-family: "Helvetica Neue",Helvetica,Arial;
+  text-size: 16px;
+}
